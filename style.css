@@ -1,5 +1,6 @@
 #MainDiv
 {
+    width: 50%;
     background-color: grey;
     border: 4px double black;
     text-align: center;
@@ -8,7 +9,6 @@
 {
     float: left;
     display: block;
-    width: 300px;
 }
 #versionGame
 {
