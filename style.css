@@ -1,5 +1,7 @@
 div.Rut
 {
-    border: 1px;
+    width: 50%;
+    color: grey;
+    border: 4px double black;
     text-align: center;
 }
