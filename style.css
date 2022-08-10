@@ -1,7 +1,7 @@
 #MainDiv
 {
     width: 50%;
-    background-color: grey;
+    background-color: rgba(230, 219, 219, 0.788);
     border: 4px double black;
     margin-left: 25%;
 }
@@ -14,5 +14,5 @@
 #versionGame
 {
     display: block;
-    margin-left: 10px;
+    margin-left: 50px;
 }
