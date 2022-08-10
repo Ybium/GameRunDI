@@ -1,7 +1,6 @@
 #MainDiv
 {
     width: 50%;
-    height: 100%;
     background-color: rgb(236, 236, 236);
     border: 4px double black;
     margin-left: 25%;
@@ -13,7 +12,7 @@
 }
 #imageDiv
 {
-    width: 100%;
+    width: 70%;
     padding: 20px;
 }
 #opisGame
