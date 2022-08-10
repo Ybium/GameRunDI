@@ -19,9 +19,14 @@
 {
     width: 90%;
 }
+#versionGame
+{
+    margin-left: 20px;
+}
 #opisGame
 {
     margin-top: 30px;
+    margin-left: 20px;
 }
 #versiiDiv
 {
