@@ -8,10 +8,12 @@
 #imageDiv
 {
     float: left;
+    display: block;
     width: 300px;
 }
 #versionGame
 {
     float: right;
+    display: block;
     width: 300px;
 }
