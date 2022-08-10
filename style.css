@@ -1,7 +1,17 @@
-div.Rut
+#MainDiv
 {
     width: 50%;
     color: grey;
     border: 4px double black;
     text-align: center;
+}
+#imageDiv
+{
+    float: left;
+    width: 300px;
+}
+#versionGame
+{
+    float: right;
+    width: 300px;
 }
