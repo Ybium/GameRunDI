@@ -1,7 +1,6 @@
 #MainDiv
 {
-    width: 50%;
-    color: grey;
+    background-color: grey;
     border: 4px double black;
     text-align: center;
 }
