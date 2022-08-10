@@ -10,22 +10,22 @@
     text-align: center;
     padding: 10px
 }
-#figurId
-{
-    width: 100%;
-    height: 180px;
-    margin: 0;
-}
 #imageDiv
 {
+    float: left;
+    display: block;
     text-align: center;
     padding: 10px;
 }
+#figurId
+{
+    width: 80%;
+    height: 180px;
+    margin: 0;
+}
 #imgID
 {
-    width: 100%;
-    padding-left: 20px;
-    padding-right: 20px;
+    width: 80%;
 }
 #opisGame
 {
