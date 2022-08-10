@@ -13,15 +13,14 @@
 #imageDiv
 {
     width: 90%;
-    float: left;
-    display: block;
+    height: 200px;
     text-align: center;
     border: 10px black;
 }
 #imgID
 {
     width: 80%;
-    height: 100%;
+    height: 80%;
 }
 #opisGame
 {
