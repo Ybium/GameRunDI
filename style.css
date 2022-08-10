@@ -16,6 +16,7 @@
 }
 #versionGame
 {
+    float: none;
     display: block;
 }
 #opisGame
