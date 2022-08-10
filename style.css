@@ -1,7 +1,8 @@
 #MainDiv
 {
     width: 50%;
-    background-color: rgba(230, 219, 219, 0.788);
+    height: 100%;
+    background-color: rgb(236, 236, 236);
     border: 4px double black;
     margin-left: 25%;
 }
@@ -10,9 +11,14 @@
     float: left;
     display: block;
     margin-left: 50px;
+    margin-right: 50px;
 }
 #versionGame
 {
     display: block;
-    margin-left: 50px;
+}
+#opisGame
+{
+    margin-top: 20px;
+    text-align: center;
 }
