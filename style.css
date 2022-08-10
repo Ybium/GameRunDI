@@ -6,18 +6,15 @@
     border: 4px double black;
     margin-left: 25%;
 }
+#nameDiv
+{
+    text-align: center;
+    padding: 10px
+}
 #imageDiv
 {
-    float: left;
-    display: block;
-    margin-left: 50px;
-    margin-right: 50px;
-    padding: 5px;
-}
-#versionGame
-{
-    float: none;
-    display: block;
+    width: 100%;
+    padding: 20px;
 }
 #opisGame
 {
