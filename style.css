@@ -1,7 +1,6 @@
 #MainDiv
 {
     width: 50%;
-    display: block;
     background-color: grey;
     border: 4px double black;
     margin-left: 25%;
@@ -10,11 +9,10 @@
 {
     float: left;
     display: block;
-    margin-left: 20%;
+    margin-left: 50px;
 }
 #versionGame
 {
-    float: left;
     display: block;
     margin-left: 10px;
 }
